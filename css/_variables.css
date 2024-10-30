@@ -1,0 +1,16 @@
+:root {
+  --primaryColor: rgb(44, 44, 102);
+  --secondaryColor: rgb(90, 110, 154);
+
+  --subColorLightYellow: rgb(242, 238, 219);
+  --subColorYellow: rgb(228, 212, 132);
+  --subColorWhite: rgb(244, 244, 244);
+  --subColorRed: rgb(78, 28, 28);
+
+  --fontSansSerif: Arial, Helvetica, sans-serif;
+
+  --spaceRemSmaller: 0.2rem;
+  --spaceRemSmall: 0.5rem;
+  --spaceRemMedium: 1rem;
+  --spaceRemLarge: 2rem;
+}
